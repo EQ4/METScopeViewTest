@@ -1,0 +1,145 @@
+TMETScopeViewTest
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist
+cProcessPCH /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch METScopeViewTest/METScopeViewTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531EA1190000000000000096
+t1394516249
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531EA119000000000000036B
+t1394516249
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EA11A000000000000019E
+t1394516250
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EA1580000000000000ADC
+t1394516312
+s2780
+
+N/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch
+t2
+s0
+
+N/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch
+c00000000537E304D0000000000000158
+t1400778829
+s344
+
+CBuild AST from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/AudioInput.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeView.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/ViewController.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb8cc99a8682eb941^a0fea3a8682eb941^---0#1#1#--18"Check dependencies36"6443ABD4-3654-4C73-AE1E-132C1B50648A-
+
+CCodeSign /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app
+r0
+
+CCompileAssetCatalog /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/Images.xcassets
+r0
+
+CCompileC DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/Objects-normal/armv7/AppDelegate.o /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/Objects-normal/armv7/AudioInput.o /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/AudioInput.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/Objects-normal/armv7/METScopeView.o /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/Objects-normal/armv7/ViewController.o /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/Objects-normal/armv7/main.o /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/en.lproj/InfoPlist.strings METScopeViewTest/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist
+s422471848.641268
+e422471848.642384
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist232"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist003aa4a8682eb941^9cc4a4a8682eb941^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist0034504fdfffdf42^836"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/ResourceRules.plist    cd /Users/Jeff/Computering/Xcode/METScopeViewTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app36"6F7C7CC8-72BA-48FD-9525-39EBE753CFFE-
+b88FB9AF4-CCF7-432F-8FD3-A274A2BDE4E7
+
+CGenerateDSYMFile /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app.dSYM /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/METScopeViewTest
+r0
+
+CLd /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/METScopeViewTest normal armv7
+r0
+
+CProcessInfoPlistFile /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/Info.plist /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Info.plist
+r0
+
+CProcessPCH /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch METScopeViewTest/METScopeViewTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422471848.643223
+e422471849.319534
+r0
+xProcessPCH
+x/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch
+xMETScopeViewTest/METScopeViewTest-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch
+oWhile building module 'UIKit' imported from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:
+oIn file included from <module-includes>:1:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:2: fatal error: malformed or corrupted AST file: 'Unable to load module "/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ/CoreFoundation.pcm": module file out of date'
+o#import <Foundation/Foundation.h>
+o ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:2: note: after modifying system headers, please delete the module cache at '/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ'
+o1 error generated.
+o/Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:6: fatal error: malformed or corrupted AST file: 'Unable to load module "/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ/Darwin.pcm": module file out of date'
+o    #import <UIKit/UIKit.h>
+o     ^
+o/Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:6: note: after modifying system headers, please delete the module cache at '/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ'
+o2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile METScopeViewTest/METScopeViewTest-Prefix.pch277"ProcessPCH DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch METScopeViewTest/METScopeViewTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2ecaa4a8682eb941^e1ce51a9682eb941^-1733"While building module 'UIKit' imported from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:In file included from <module-includes>:1:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:2: fatal error: malformed or corrupted AST file: 'Unable to load module "/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ/CoreFoundation.pcm": module file out of date'#import <Foundation/Foundation.h> ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:2: note: after modifying system headers, please delete the module cache at '/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ'1 error generated./Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:6: fatal error: malformed or corrupted AST file: 'Unable to load module "/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ/Darwin.pcm": module file out of date'    #import <UIKit/UIKit.h>     ^/Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:6: note: after modifying system headers, please delete the module cache at '/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ'2 errors generated.2(36%IDEClangDiagnosticActivityLogMessage2@186"Malformed or corrupted AST file: 'Unable to load module "/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ/CoreFoundation.pcm": module file out of date'-422471849#18446744073709551615#0#4(2@139"While building module 'UIKit' imported from /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch:14:-422471849#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file:///Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch0000000000000000^13#12#13#12#283#0#21"Apple LLVM 5.1 Notice--2@42"In file included from <module-includes>:1:-422471849#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@75"file:///Users/Jeff/Computering/Xcode/METScopeViewTest/%3Cmodule-includes%3E0000000000000000^0#8#0#8#8#0#21"Apple LLVM 5.1 Notice--2@184"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:-422471849#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@166"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h0000000000000000^8#8#8#8#132#0#21"Apple LLVM 5.1 Notice--2@151"After modifying system headers, please delete the module cache at '/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ'-422471849#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@176"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h0000000000000000^7#1#7#1#104#0#21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@176"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h0000000000000000^7#1#7#1#104#0#20"Apple LLVM 5.1 Error--2@178"Malformed or corrupted AST file: 'Unable to load module "/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ/Darwin.pcm": module file out of date'-422471849#18446744073709551615#0#1(2@151"After modifying system headers, please delete the module cache at '/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache/427UY619QAPZ'-422471849#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch0000000000000000^13#5#13#5#276#0#21"Apple LLVM 5.1 Notice--2#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch0000000000000000^13#5#13#5#276#0#20"Apple LLVM 5.1 Error--0#0#1#-19%DVTDocumentLocation4@98"file:///Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch0000000000000000^4089"ProcessPCH DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch METScopeViewTest/METScopeViewTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/METScopeViewTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/METScopeViewTest-generated-files.hmap -I/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/METScopeViewTest-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/METScopeViewTest-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/METScopeViewTest-project-headers.hmap -I/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/DerivedSources -F/Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.d -c /Users/Jeff/Computering/Xcode/METScopeViewTest/METScopeViewTest/METScopeViewTest-Prefix.pch -o /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/PrecompiledHeaders/METScopeViewTest-Prefix-bizbmwqoapnrexbxxlzcpjuckles/METScopeViewTest-Prefix.pch.pch36"EABE2F32-7450-4BB5-9345-7DB454887ABB-
+b88FB9AF4-CCF7-432F-8FD3-A274A2BDE4E7
+
+CProcessPCH /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Index/PrecompiledHeaders/METScopeViewTest-Prefix-avwaqtyjzgilxccoumpopyxsnqfi_ast/METScopeViewTest-Prefix.pch.pch METScopeViewTest/METScopeViewTest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Intermediates/METScopeViewTest.build/Debug-iphoneos/METScopeViewTest.build/METScopeViewTest.xcent
+r0
+
+CProcessProductPackaging /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/CF0E3C3F-37AF-4F3F-8FAC-7709B25E77FF.mobileprovision /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app/embedded.mobileprovision
+r0
+
+CTouch /Users/Jeff/Computering/Xcode/METScopeViewTest/DerivedData/METScopeViewTest/Build/Products/Debug-iphoneos/METScopeViewTest.app
+r0
+

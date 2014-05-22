@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0793BD6-5943-4E7A-8941-0E42941BD804</string>
+	<key>IDESourceControlProjectName</key>
+	<string>METScopeViewTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1DF1FCB-2900-4AD0-867B-82A9B8782633</key>
+		<string>https://github.com/MET-lab/METScopeViewTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>METScopeViewTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1DF1FCB-2900-4AD0-867B-82A9B8782633</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MET-lab/METScopeViewTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1DF1FCB-2900-4AD0-867B-82A9B8782633</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1DF1FCB-2900-4AD0-867B-82A9B8782633</string>
+			<key>IDESourceControlWCCName</key>
+			<string>METScopeViewTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
